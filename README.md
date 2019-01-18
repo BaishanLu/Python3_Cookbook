@@ -8,7 +8,7 @@ Python Cookbook 3rd, 非常好的一本 Python3 经验练习书, 适合有些 Py
 
 我跟着这本书作练习, 觉得与 Jupyter Notebook 是绝配. 把 notebooks 文件发到 Github 上, 居然显示完美! 作为备份参考也挺好的.
 
-下一本看的书将会是[流畅的Python](https://book.douban.com/subject/27028517/)/[Fluent Python](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming-ebook-dp-B0131L3PW4/dp/B0131L3PW4/ref=mt_kindle?_encoding=UTF8&me=&qid=), 豆瓣上居然高达9.5分, 不得不读.
+下一本看的书将会是: [流畅的Python](https://book.douban.com/subject/27028517/)/[Fluent Python](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming-ebook-dp-B0131L3PW4/dp/B0131L3PW4/ref=mt_kindle?_encoding=UTF8&me=&qid=), 豆瓣上居然高达9.5分, 不得不读.
 
 ## Table of Content
 

@@ -14,4 +14,4 @@ Python Cookbook 3rd, 非常好的一本 Python3 经验练习书, 适合有些 Py
 
 Table of Content
 
-[CHAPTER 1. Data Structures and Algorithms](CHAPTER 1. Data Structures and Algorithms.ipynb)
+[CHAPTER 1. Data Structures and Algorithms](https://github.com/BaishanLu/Python3_Cookbook/blob/master/CHAPTER%201.%20Data%20Structures%20and%20Algorithms.ipynb)

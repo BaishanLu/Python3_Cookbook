@@ -12,6 +12,6 @@ Python Cookbook 3rd, 非常好的一本 Python3 经验练习书, 适合有些 Py
 
 我跟着这本书作练习, 觉得与 Jupyter Notebook 是绝配. 把 notebooks 文件发到 Github 上, 居然显示完美! 作为备份参考也挺好的.
 
-Table of Content
+## Table of Content
 
 [CHAPTER 1. Data Structures and Algorithms](https://github.com/BaishanLu/Python3_Cookbook/blob/master/CHAPTER%201.%20Data%20Structures%20and%20Algorithms.ipynb)

@@ -10,6 +10,9 @@ Python Cookbook 3rd, 非常好的一本 Python3 经验练习书, 适合有些 Py
 
 下一本看的书将会是: [流畅的Python](https://book.douban.com/subject/27028517/)/[Fluent Python](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming-ebook-dp-B0131L3PW4/dp/B0131L3PW4/ref=mt_kindle?_encoding=UTF8&me=&qid=), 豆瓣上居然高达9.5分, 不得不读.
 
+注: 有时 Github 找开.ipynb 文件很慢甚至失败, 可能 copy/paste 链接到下面网页中显示:
+https://nbviewer.jupyter.org/
+
 ## Table of Content
 
 [CHAPTER 1. Data Structures and Algorithms](https://github.com/BaishanLu/Python3_Cookbook/blob/master/CHAPTER%201.%20Data%20Structures%20and%20Algorithms.ipynb)

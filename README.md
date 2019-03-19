@@ -15,4 +15,4 @@ https://nbviewer.jupyter.org/
 
 ## Table of Content
 
-[CHAPTER 1. Data Structures and Algorithms](https://github.com/BaishanLu/Python3_Cookbook/blob/master/CHAPTER%201.%20Data%20Structures%20and%20Algorithms.ipynb)
+[CHAPTER 1. Data Structures and Algorithms](https://nbviewer.jupyter.org/github/BaishanLu/Python3_Cookbook/blob/master/CHAPTER%201.%20Data%20Structures%20and%20Algorithms%20-%20Part01.ipynb)
